@@ -1,3 +1,23 @@
-*{
-background: gray;
+* {
+    background: gray;
+    font-family: cursive;
+}
+
+a {
+    color: green;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+.centrer {
+    text-align: center;
+}
+
+input {
+    background: #d2d3d3;
+    border: 1px solid;
 }
